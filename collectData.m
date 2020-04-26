@@ -1,4 +1,4 @@
-% Code below is modified starter code provided by QEA Course Instructors
+% Code below is modified from the starter code provided by QEA Course Instructors
 % Source Code can be found at: https://qeacourse.github.io/RoboNinjaWarrior/Sample_code/collectScans
 
 sub = rossubscriber('/scan');
